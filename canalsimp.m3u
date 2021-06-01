@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0,M.LCAMPEONES
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+#EXTINF:0,M.LCAMPEON1
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+#EXTINF:0,M.LCAMPEON2
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:74DB:3F8:1:C00000:0:0:0:
+#EXTINF:0,M.LCAMPEON3
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+#EXTINF:0,M. LaLiga HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:750F:420:1:C00000:0:0:0:
+#EXTINF:0,M. LaLiga 1 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:7853:41A:1:C00000:0:0:0:
+#EXTINF:0,M. LaLiga 2 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:74CD:3F8:1:C00000:0:0:0:
+#EXTINF:0,M. LaLiga 3 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:74D3:3F8:1:C00000:0:0:0:
+#EXTINF:0,#VAMOSHD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:7508:420:1:C00000:0:0:0:
+#EXTINF:0,DAZN 1 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:7855:41A:1:C00000:0:0:0:
+#EXTINF:0,DAZN 2 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:785F:41A:1:C00000:0:0:0:
+#EXTINF:0,DAZN 3 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:74D8:3F8:1:C00000:0:0:0:
+#EXTINF:0,DAZN 4 HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:74D6:3F8:1:C00000:0:0:0:
+#EXTINF:0,TOROS HD
+#EXTGRP:unsorted
+http://root:openspa@trielsa.ddns.net:8001:8001/1:0:19:782D:428:1:C00000:0:0:0:
